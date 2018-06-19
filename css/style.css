@@ -10,11 +10,25 @@ body {
 	font-family: 'Times New Roman', serif; 
 }
 
+.pageBox {
+  width: 800;
+  height: 100%;
+}
+
+.borderBox {
+  
+}
+
 .wrapper {
-	width: 960px;
+	width: 800px;
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+}
+
+h1 {
+  color:#a5b1b7;
+  font-size: 350%;
 }
 
 /* Write all remaining styles here */
